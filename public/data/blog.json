@@ -1,0 +1,23 @@
+[
+    {
+        "img": "/assets/blog1.jpg",
+        "date": "September 17, 2021",
+        "tagValue": "burger",
+        "title": "what’s really in Burger92 burgers?",
+        "summary": "Here are the facts: All of our burger patties in the U.S. are always made with 100% USDA-inspected beef. That’s the only ingredient: 100% real beef."
+    },
+    {
+        "img": "/assets/blog2.jpg",
+        "date": "September 20, 2021",
+        "tagValue": "fast-food",
+        "title": "Why Eat at Fast-Food Restaurants",
+        "summary": "A convenience sample of adolescents and adults who regularly eat at fast-food restaurants were recruited to participate in an experimental trial to..."
+    },
+    {
+        "img": "/assets/blog3.jpg",
+        "date": "October 10, 2020",
+        "tagValue": "bacon burger",
+        "title": "How To Make A Bacon Burger?",
+        "summary": "Burgers have gotten a facelift as of late and thank goodness for it. Long gone are the days where dinner guests opt for just a slice of cheese and a"
+    }
+]

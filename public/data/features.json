@@ -1,0 +1,18 @@
+[
+    {
+        "feature": "Fresh Beaf",
+        "img": "/data/imgs/groceries.png"
+    },
+    {
+        "feature": "Fast Delivery",
+        "img": "/data/imgs/truck.png"
+    },
+    {
+        "feature": "Quality Maintain",
+        "img": "/data/imgs/medal.png"
+    },
+    {
+        "feature": "24/7 Service",
+        "img": "/data/imgs/support.png"
+    }
+]

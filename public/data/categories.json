@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Beverages",
+    "img": "/assets/beverage.png",
+    "active": "true",
+    "subCategory": [
+      {
+        "name": "Coca-Cola",
+        "img": "/data/imgs/coca-cola.png",
+        "rating": 4.5
+      },
+      {
+        "name": "Sprite",
+        "img": "/data/imgs/sprite.png",
+        "rating": 2.5
+      },
+      {
+        "name": "Fanta Orange",
+        "img": "/data/imgs/fanta.png",
+        "rating": 3
+      },
+      {
+        "name": "",
+        "img": "/assets/banner-beverage.png"
+      }
+    ]
+  },
+  {
+    "name": "Combo Meal",
+    "img": "/assets/combo.png",
+    "subCategory": [
+      {
+        "name": "Coca-Cola",
+        "img": "/data/imgs/coca-cola.png",
+        "rating": 4
+      },
+      {
+        "name": "Sprite",
+        "img": "/data/imgs/sprite.png",
+        "rating": 2
+      },
+      {
+        "name": "Fanta Orange",
+        "img": "/data/imgs/fanta.png",
+        "rating": 1.5
+      },
+      {
+        "name": "",
+        "img": "/assets/banner-beverage.png"
+      }
+    ]
+  },
+  {
+    "name": "Burgers",
+    "img": "/assets/burger.png",
+    "popular": "true",
+    "subCategory": [
+      {
+        "name": "Cheeseburger",
+        "img": "/data/imgs/cheeseburger.jpg",
+        "rating":3.5
+      },
+      {
+        "name": "Big Burger",
+        "img": "/data/imgs/big-burger.jpg",
+        "rating":5
+      },
+      {
+        "name": "Double cheeseburger",
+        "img": "/data/imgs/double-cheeseburger.jpg",
+        "rating":2.5
+      },
+      {
+        "name": "",
+        "img": "/assets/banner-beverage.png"
+      }
+    ]
+  },
+  {
+    "name": "Chicken",
+    "img": "/assets/chicken.png",
+    "subCategory": [
+      {
+        "name": "Coca-Cola",
+        "img": "/data/imgs/coca-cola.png"
+      },
+      {
+        "name": "Sprite",
+        "img": "/data/imgs/sprite.png"
+      },
+      {
+        "name": "Fanta Orange",
+        "img": "/data/imgs/fanta.png"
+      },
+      {
+        "name": "",
+        "img": "/assets/banner-beverage.png"
+      }
+    ]
+  },
+  {
+    "name": "Pizza",
+    "img": "/assets/Pizza.png",
+    "subCategory": [
+      {
+        "name": "Coca-Cola",
+        "img": "/data/imgs/coca-cola.png"
+      },
+      {
+        "name": "Sprite",
+        "img": "/data/imgs/sprite.png"
+      },
+      {
+        "name": "Fanta Orange",
+        "img": "/data/imgs/fanta.png"
+      },
+      {
+        "name": "",
+        "img": "/assets/banner-beverage.png"
+      }
+    ]
+  },
+  {
+    "name": "Snacks & Slides",
+    "img": "/assets/snack.png",
+    "subCategory": [
+      {
+        "name": "Coca-Cola",
+        "img": "/data/imgs/coca-cola.png"
+      },
+      {
+        "name": "Sprite",
+        "img": "/data/imgs/sprite.png"
+      },
+      {
+        "name": "Fanta Orange",
+        "img": "/data/imgs/fanta.png"
+      },
+      {
+        "name": "",
+        "img": "/assets/banner-beverage.png"
+      }
+    ]
+  }
+]

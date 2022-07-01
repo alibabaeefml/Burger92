@@ -1,0 +1,47 @@
+[
+    {
+        "name": "big-burger",
+        "img": "/data/imgs/big-burger.jpg",
+        "price": "3.99$"
+    },
+    {
+        "name": "cheese-burger",
+        "img": "/data/imgs/cheeseburger.jpg",
+        "price": "4.99$"
+    },
+    {
+        "name": "cocacola",
+        "img": "/data/imgs/coca-cola.png",
+        "price": "1.99$"
+    },
+    {
+        "name": "double-cheeseburger",
+        "img": "/data/imgs/double-cheeseburger.jpg",
+        "price": "5.99$"
+    },
+    {
+        "name": "fanta",
+        "img": "/data/imgs/fanta.png",
+        "price": "1.99$"
+    },
+    {
+        "name": "fried-chicken",
+        "img": "/data/imgs/fried-chicken.png",
+        "price": "4.99$"
+    },
+    {
+        "name": "fries",
+        "img": "/data/imgs/fries.png",
+        "price": "2.99$"
+    },
+    {
+        "name": "sprite",
+        "img": "/data/imgs/sprite.png",
+        "price": "1.99$"
+    },
+    {
+        "name": "special-pizza",
+        "img": "/data/imgs/special-pizza.png",
+        "price": "8.99$"
+    }
+]
